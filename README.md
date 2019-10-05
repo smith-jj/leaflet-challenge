@@ -1,6 +1,6 @@
 # Leaflet Project - Visualizing Data with Leaflet
 
-![1-Logo](Leaflet/Images/1-Logo.png)
+![1-Logo](Leaflet-Final/Images/1-Logo.png)
 
 Welcome to the United States Geological Survey, or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
@@ -22,8 +22,11 @@ Visualize recent earthquake data over the past 30 days against the location of t
 
 Example images of map:
 
-![Outdoor Map](Leaflet/Images/img1.png)
+![Outdoor Map](Leaflet-Final/Images/img1.png)
 
-![Grayscale Map](Leaflet/Images/img2.png)
+![Grayscale Map](Leaflet-Final/Images/img2.png)
 
-![Satellite Map](Leaflet/Images/img3.png)
+![Satellite Map](Leaflet-Final/Images/img3.png)
+
+### Observation
+
